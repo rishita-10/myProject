@@ -45,15 +45,15 @@ const Footer = () => {
               alias cum
             </p>
             <p className="text-gray-500 mt-4">
-              Made with 💖 by The Coding Journey
+              Made with 💖Hrishita Mohite & Team
             </p>
-            <a
+            {/* <a
               href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
               target="_blank"
               className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full"
             >
               Visit our YouTube Channel
-            </a>
+            </a> */}
           </div>
 
           {/* Footer links */}
@@ -100,16 +100,16 @@ const Footer = () => {
               <div>
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida , Uttar Pradesh</p>
+                  <p>Surat, Gujarat</p>
                 </div>
                 <div className="flex items-center gap-3 mt-6">
                   <FaMobileAlt />
-                  <p>+91 1234567890</p>
+                  <p>+91 9327909274</p>
                 </div>
 
                 {/* social links */}
                 <div className="flex items-center gap-3 mt-6">
-                  <a href="#">
+                  <a href="https://www.instagram.com/hrishita__._?igsh=MWI3b2ZranFudTBpcA==">
                     <FaInstagram className="text-3xl hover:text-primary duration-300" />
                   </a>
                   <a href="#">
